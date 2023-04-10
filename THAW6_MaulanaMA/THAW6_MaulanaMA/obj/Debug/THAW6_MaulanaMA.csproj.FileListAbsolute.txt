@@ -1,0 +1,12 @@
+C:\Users\Olan\source\repos\THAW6_MaulanaMA\THAW6_MaulanaMA\bin\Debug\THAW6_MaulanaMA.exe.config
+C:\Users\Olan\source\repos\THAW6_MaulanaMA\THAW6_MaulanaMA\bin\Debug\THAW6_MaulanaMA.exe
+C:\Users\Olan\source\repos\THAW6_MaulanaMA\THAW6_MaulanaMA\bin\Debug\THAW6_MaulanaMA.pdb
+C:\Users\Olan\source\repos\THAW6_MaulanaMA\THAW6_MaulanaMA\obj\Debug\THAW6_MaulanaMA.csproj.AssemblyReference.cache
+C:\Users\Olan\source\repos\THAW6_MaulanaMA\THAW6_MaulanaMA\obj\Debug\THAW6_MaulanaMA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Olan\source\repos\THAW6_MaulanaMA\THAW6_MaulanaMA\obj\Debug\THAW6_MaulanaMA.Form1.resources
+C:\Users\Olan\source\repos\THAW6_MaulanaMA\THAW6_MaulanaMA\obj\Debug\THAW6_MaulanaMA.Properties.Resources.resources
+C:\Users\Olan\source\repos\THAW6_MaulanaMA\THAW6_MaulanaMA\obj\Debug\THAW6_MaulanaMA.csproj.GenerateResource.cache
+C:\Users\Olan\source\repos\THAW6_MaulanaMA\THAW6_MaulanaMA\obj\Debug\THAW6_MaulanaMA.csproj.CoreCompileInputs.cache
+C:\Users\Olan\source\repos\THAW6_MaulanaMA\THAW6_MaulanaMA\obj\Debug\THAW6_MaulanaMA.exe
+C:\Users\Olan\source\repos\THAW6_MaulanaMA\THAW6_MaulanaMA\obj\Debug\THAW6_MaulanaMA.pdb
+C:\Users\Olan\source\repos\THAW6_MaulanaMA\THAW6_MaulanaMA\obj\Debug\THAW6_MaulanaMA.FormGame.resources
